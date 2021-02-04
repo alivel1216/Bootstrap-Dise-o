@@ -43,6 +43,19 @@
     text-align: right;
 }
 
+#place-time{
+    background-color: #343A40;
+    color: white;
+}
+
+#place-time img{
+    max-width: 100%;
+}
+
+#image{
+    padding-left: 0;
+    padding-right: 0;
+}
 #footer{
     background: linear-gradient(90deg,#1c3643,#273b47 25%, #1e5372);
 }
